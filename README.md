@@ -1,2 +1,6 @@
 # adwan_another_repo
-testing branches 
+git checkout main
+git merge new_branch
+git add .
+git commit -m"merged"
+git push
