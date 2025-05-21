@@ -1,6 +1,6 @@
 # adwan_another_repo
-/n git checkout main
-/n git merge new_branch
-/n git add .
-/n git commit -m"merged"
-/n git push
+## git checkout main
+## git merge new_branch
+## git add .
+## git commit -m"merged"
+## git push
